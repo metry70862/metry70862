@@ -1,6 +1,5 @@
 # Byeon Su Hyeock 👋
 
-<!--
 **metry70862/metry70862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=domika1)](https://solved.ac/domika1)  
 
