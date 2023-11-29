@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=domika1)](https://solved.ac/domika1)  
 
 # Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metry70862&layout=compact&theme=dark)
 
