@@ -31,4 +31,4 @@ infrastructure.
 
 ---
 
-[GitHub](github.com/metry70862/metry70862) | [Résumé] | [Email](mailto:domika70862@gmail.com)
+[GitHub](https://github.com/metry70862/metry70862) | [Résumé] | [Email](mailto:domika70862@gmail.com)
