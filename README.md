@@ -3,7 +3,7 @@
 **About**
 - Studying Computer Science and Engineering at Konkuk University
 - Interested in backend development and cloud infrastructure
-- 
+
 ### Interests
 
 - Backend development
